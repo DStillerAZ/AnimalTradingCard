@@ -1,0 +1,22 @@
+body{
+	font-family: 'Fjalla One', sans-serif;
+	background-color: MediumPurple;
+	max-width: 400px;
+	border-style: ridge;
+	border-color: Indigo;
+	text-align: center;
+	padding: 10px;
+}
+
+.text{
+	border-style: ridge;
+	border-color: Indigo;
+}
+
+h3{
+	text-align: left;
+}
+
+img {
+	padding-bottom: 10px;
+}
